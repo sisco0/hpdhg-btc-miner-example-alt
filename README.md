@@ -19,6 +19,9 @@ Just ensure that you link to SSL and Crypto during the compilation time. Also, t
 gcc -o main main.c -lssl -lcrypto
 ```
 
+David's change
+
+```text
 -Arturo was here
 -  o   o
 -   \ /
@@ -26,6 +29,7 @@ gcc -o main main.c -lssl -lcrypto
 -  \ | /
 -    |
 -   / \
+```
 
 ## Autors
 Cristopher Juarez is the best
