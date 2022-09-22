@@ -21,3 +21,5 @@ gcc -o main main.c -lssl -lcrypto
 
 ## Autors
 Cristopher Juarez is the best
+
+hmcr
