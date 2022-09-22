@@ -20,3 +20,18 @@ gcc -o main main.c -lssl -lcrypto
 ```
 
 David's change
+
+```text
+-Arturo was here
+-  o   o
+-   \ /
+-  (o o)
+-  \ | /
+-    |
+-   / \
+```
+
+## Autors
+Cristopher Juarez is the best
+
+hmcr
