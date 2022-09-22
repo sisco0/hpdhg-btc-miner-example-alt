@@ -18,3 +18,5 @@ Just ensure that you link to SSL and Crypto during the compilation time. Also, t
 ```bash
 gcc -o main main.c -lssl -lcrypto
 ```
+
+David's change
